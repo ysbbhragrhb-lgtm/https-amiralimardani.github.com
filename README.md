@@ -1,2 +1,18 @@
-# https-amiralimardani.github.com
-&lt;meta name="description" content="سایت شخصی امیرعلی مردانی | شماره تماس ۰۹۱۸۷۰۳۱۷۴۷"> &lt;meta name="keywords" content="امیرعلی مردانی, سایت شخصی, تماس, برنامه نویسی, همدان"> &lt;meta name="author" content="AmirAli Mardani"> &lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+
+    <meta name="google-site-verification" content="NjFuCg49VIZes29pQcKgIqGD4qmGu8hEMLNm2KjbU0w" />
+
+    <meta charset="UTF-8">
+    <title>سایت امیرعلی مردانی</title>
+
+</head>
+
+<body>
+
+    <h1>به سایت من خوش آمدید</h1>
+    <p>شماره تماس: 09187031747</p>
+
+</body>
+</html>
